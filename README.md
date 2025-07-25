@@ -120,16 +120,4 @@ BankManagementSystem/
 
 ---
 
-## 👨‍💻 Author
-
-**Mr ST**  
-B.Tech CSE, CV Raman Global University  
-Aspiring Cybersecurity & Ethical Hacking Specialist
-
----
-
-## 🤝 Contributions
-
-Feel free to fork this repo, improve the code, or suggest new features!
-
 > ✨ *If you like this project, give it a ⭐ on GitHub!*
